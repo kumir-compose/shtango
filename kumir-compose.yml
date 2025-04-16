@@ -1,0 +1,11 @@
+project:
+  name: shtango
+  depends:
+    kspi: latest
+    k-collections: latest
+  distribute:
+    - core.kum
+    - macros.kum
+    - templating.kum
+    - urlencode.kum
+    - validation.kum
